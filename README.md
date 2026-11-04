@@ -11,13 +11,13 @@
 ---
 
 <p>
-  Data Specialist at the Dutch National Police (Noord-Holland)** since March 2025. Set up data-driven working in a team that didn't have it yet: pipelines in Python and SQL, dimensional     models, Power BI reports, and automated tooling for financial and cryptocurrency investigations.
+  Data Specialist at the Dutch National Police (Noord-Holland) since March 2025. Set up data-driven working in a team that didn't have it yet: pipelines in Python and SQL, dimensional       models, Power BI reports, and automated tooling for financial and cryptocurrency investigations.
 </p>
 <p>
-  Before that, **Data Engineer at NLR** on COMPASS, an EU project on digital product passports. Requirements engineering with partners across Europe, data platform architecture, dbt and     Power BI. 
+  Before that, Data Engineer at NLR on COMPASS, an EU project on digital product passports. Requirements engineering with partners across Europe, data platform architecture, dbt and         Power BI. 
 </p>
 <p>
-  Four years making **Udemy courses** on Python, SQL, full-stack development and Hyperledger Fabric (241 students, 4.2/5).
+  Four years making Udemy courses on Python, SQL, full-stack development and Hyperledger Fabric (241 students, 4.2/5).
 </p>
 
 ---
