@@ -25,6 +25,6 @@
 ---
 
 <p align="center">
-  📫 <a href="https://ruudjuffermans.nl/contact">Get in touch</a> · Dutch (native) · English (fluent)
+  <a href="https://ruudjuffermans.nl/contact">Get in touch</a> · Dutch (native) · English (fluent)
 </p>
 
