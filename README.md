@@ -7,10 +7,8 @@
   <a href="https://www.linkedin.com/in/r-j3">LinkedIn</a> ·
   <a href="https://github.com/datavakwerk">Project code (datavakwerk)</a>
 </p>
----
-I build modeled data warehouses, tested pipelines and AI systems in environments where handling confidential and privacy-sensitive data with care is essential.
 
-## Experience
+---
 
 | Period | Role | What I did |
 | --- | --- | --- |
@@ -18,7 +16,7 @@ I build modeled data warehouses, tested pipelines and AI systems in environments
 | Mar 2024 – Mar 2025 | **Data Engineer**, Netherlands Aerospace Centre (NLR) | COMPASS, an EU project on digital product passports. Requirements engineering with partners across Europe, data platform architecture, dbt and Power BI. |
 | 2020 – 2024 | **Course creator**, Udemy | Courses on Python, SQL, full-stack development and Hyperledger Fabric. 241 students, rated 4.2/5. |
 
-## Skills
+---
 
 - **Data:** Python, SQL, dbt, DuckDB, PostgreSQL, Kafka / Redpanda, Parquet, MinIO, Power BI, data modelling
 - **AI:** LangGraph, LangChain, RAG, pgvector, fastembed, cross-encoders, evals in CI, LangFuse
