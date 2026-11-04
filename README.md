@@ -15,22 +15,13 @@
 
 I build modeled data warehouses, tested pipelines and AI systems in environments where handling confidential and privacy-sensitive data with care is essential.
 
-## What I'm doing now
+## Experience
 
-- **Data Specialist at the Dutch National Police (Noord-Holland)** since March 2025. Set up data-driven working in a team that didn't have it yet: pipelines in Python and SQL, dimensional models, Power BI reports, and automated tooling for financial and cryptocurrency investigations.
-- Before that, **Data Engineer at NLR** on COMPASS, an EU project on digital product passports. Requirements engineering with partners across Europe, data platform architecture, dbt and Power BI.
-- Four years making **Udemy courses** on Python, SQL, full-stack development and Hyperledger Fabric (241 students, 4.2/5).
-
-## Projects
-
-All code is public under [@datavakwerk](https://github.com/datavakwerk). Every project runs from an empty directory with one command and has tests and lint in CI.
-
-| Project | What it is | Stack |
+| Period | Role | What I did |
 | --- | --- | --- |
-| [digital-twin](https://github.com/datavakwerk/digital-twin) | LangGraph agent that answers questions about me with sources, streams over SSE, refuses without evidence, and asks for human approval before acting. [Try it live.](https://ai.ruudjuffermans.nl) | Python, FastAPI, LangGraph, Postgres + pgvector, React |
-| [strafrecht-rag](https://github.com/datavakwerk/strafrecht-rag) | RAG over 1,906 Dutch criminal-law rulings. Hybrid retrieval (BM25 + embeddings, RRF, cross-encoder rerank) and per-claim citation verification in code. No source, no answer. | Python, SQLite + FTS5, fastembed, Ollama / Claude |
-| [nl-vehicle-warehouse](https://github.com/datavakwerk/nl-vehicle-warehouse) | Kimball star schema on ~58M rows of Dutch open vehicle data (RDW + CBS). Three documented grains, SCD type 2 municipalities, custom grain tests on every PR. | Python, dbt, DuckDB, Evidence, GitHub Actions |
-| [ov-streaming-pipeline](https://github.com/datavakwerk/ov-streaming-pipeline) | Real-time delay analytics on ~4,900 Dutch public-transport vehicles. Five-minute windows, per-partition watermarks, at-least-once with idempotent sinks, dead-letter queue and replay. 13 containers, zero cost. | Python, Kafka (Redpanda), Postgres, MinIO, Grafana, Streamlit |
+| Mar 2025 – now | **Data Specialist**, Dutch National Police (Noord-Holland) | Set up data-driven working in a team that didn't have it yet: pipelines in Python and SQL, dimensional models, Power BI reports, and automated tooling for financial and cryptocurrency investigations. |
+| Mar 2024 – Mar 2025 | **Data Engineer**, Netherlands Aerospace Centre (NLR) | COMPASS, an EU project on digital product passports. Requirements engineering with partners across Europe, data platform architecture, dbt and Power BI. |
+| 2020 – 2024 | **Course creator**, Udemy | Courses on Python, SQL, full-stack development and Hyperledger Fabric. 241 students, rated 4.2/5. |
 
 ## Skills
 
