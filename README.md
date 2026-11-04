@@ -13,7 +13,7 @@
 
 ---
 
-I build modeled data warehouses, tested pipelines and AI systems that only say what they can prove. Most of that work has been in environments where confidential and privacy-sensitive data is the norm: the Dutch National Police and the Netherlands Aerospace Centre (NLR).
+I build modeled data warehouses, tested pipelines and AI systems in environments where handling confidential and privacy-sensitive data with care is essential.
 
 ## What I'm doing now
 
@@ -31,14 +31,13 @@ All code is public under [@datavakwerk](https://github.com/datavakwerk). Every p
 | [strafrecht-rag](https://github.com/datavakwerk/strafrecht-rag) | RAG over 1,906 Dutch criminal-law rulings. Hybrid retrieval (BM25 + embeddings, RRF, cross-encoder rerank) and per-claim citation verification in code. No source, no answer. | Python, SQLite + FTS5, fastembed, Ollama / Claude |
 | [nl-vehicle-warehouse](https://github.com/datavakwerk/nl-vehicle-warehouse) | Kimball star schema on ~58M rows of Dutch open vehicle data (RDW + CBS). Three documented grains, SCD type 2 municipalities, custom grain tests on every PR. | Python, dbt, DuckDB, Evidence, GitHub Actions |
 | [ov-streaming-pipeline](https://github.com/datavakwerk/ov-streaming-pipeline) | Real-time delay analytics on ~4,900 Dutch public-transport vehicles. Five-minute windows, per-partition watermarks, at-least-once with idempotent sinks, dead-letter queue and replay. 13 containers, zero cost. | Python, Kafka (Redpanda), Postgres, MinIO, Grafana, Streamlit |
-| [ruudjuffermans-portfolio](https://github.com/ruud-juffermans/ruudjuffermans-portfolio) | This site: bilingual NL/EN, MDX write-ups, Lighthouse 90+, CLS 0. | Next.js 15, React 19, MUI, next-intl |
 
-## Toolbox
+## Skills
 
-**Data:** Python, SQL, dbt, DuckDB, PostgreSQL, Kafka / Redpanda, Parquet, MinIO, Power BI, data modelling
-**AI:** LangGraph, LangChain, RAG, pgvector, fastembed, cross-encoders, evals in CI, LangFuse
-**Engineering:** FastAPI, TypeScript, React, Next.js, Docker Compose, GitHub Actions, Prometheus, Grafana
-**Also:** on-chain forensics, Hyperledger Fabric, Solidity
+- **Data:** Python, SQL, dbt, DuckDB, PostgreSQL, Kafka / Redpanda, Parquet, MinIO, Power BI, data modelling
+- **AI:** LangGraph, LangChain, RAG, pgvector, fastembed, cross-encoders, evals in CI, LangFuse
+- **Engineering:** FastAPI, TypeScript, React, Next.js, Docker Compose, GitHub Actions, Prometheus, Grafana
+- **Also:** on-chain forensics, Hyperledger Fabric, Solidity
 
 ---
 
